@@ -1,0 +1,12 @@
+customtkinter
+opencv-python
+pillow
+numpy==1.26.4
+joblib
+scikit-image
+scikit-learn
+tensorflow==2.13.0
+matplotlib
+tqdm
+psutil
+Python 3.10.9
